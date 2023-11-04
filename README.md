@@ -2,9 +2,9 @@
 
 This version of my portfolio has been deprecated. To access the latest updates. Thank you for your continued interest in my work.
 
-You can Visit My New Portfolio Site: https://gitansh.tech/
+🌟 You can Visit My New Portfolio Site: https://gitansh.tech/
 
-To Visit My Old Portfolio Site: https://gitanshkapoor.github.io/Old-Portfolio/
+🌟 To Visit My Old Portfolio Site: https://gitanshkapoor.github.io/Old-Portfolio/
 
 
 ## Tech Stack
